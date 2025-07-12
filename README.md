@@ -40,5 +40,5 @@ This project demonstrates:
 
 ---
 
-## 📁 Project Folder Highlights
+
 
